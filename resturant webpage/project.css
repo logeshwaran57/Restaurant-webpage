@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+header{
+    
+    background-color: #FFF3B0;
+}
+body{
+    background-color: #E09F3E
+   
+}
+footer{
+    background-color: #FFF3B0;
+}
+li {
+    display: inline;
+    align-content: center;
+    color: rgb(0, 0, 0);
+    
+}
+ul{
+    padding: 7px;
+}
+nav{
+    text-align: center;
+    
+}
+.logo{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    padding: 7px;
+}
+.logo2{
+    text-align: center;
+    margin-top: -6px;
+}
+.footer{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 5px;
+
+}
+form{
+    text-align: center;
+    
+}
+input{
+    font-size: inherit;
+    text-align: center;
+    padding: 2px;
+    border-radius: 5px;
+    background-color: #dfd6d6;
+}
+input:hover{
+    background-color: white;
+}
+.Order{
+    font-size: inherit;
+    padding: 4px;
+    color:white;
+    background-color: #9E2A2B;
+    border-radius: 9px 9px 0px 0px ;
+}
+.Order:hover{
+    background-color: #4a2323;
+}
+
+.image{
+    margin: 12px;
+    color: white;
+    background-color: #22577A;
+    display: inline-block;
+    width: 300px;
+    border: 2px solid rgb(0, 0, 0);    
+}
+.food{
+    text-align: center;
+    background-color: 22577A;
+}
+.food1{
+    width: 296px;
+    height: auto;
+}
+.food2{
+    width: 296px;
+    height: auto;
+}
+.food3{
+    width: 296px;
+    height: auto;
+}
+.food4{
+    width: 296px;
+    height: auto;
+}
+label{
+    width: 100px;
+    display: inline-block;
+}
+.Send{
+    font-size: inherit;
+    padding: 6px;
+    color:white;
+    background-color: #9E2A2B;
+    border-radius: 12px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+.Send:hover{
+    background-color: #661f20;
+}
+
+
